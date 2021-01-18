@@ -1,0 +1,25 @@
+.footer {
+  background-color: black;
+  border: 1px solid black;
+  color: grey;
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 18px;
+}
+
+.icons {
+  padding: 5px 10px;
+}
+.icons i {
+  color: #4af2a1;
+  width: 1.5em;
+  text-align: center;
+  padding-top: 20px;
+}
+.fa-fw {
+  font-size: 34px;
+}
+
+.footer p {
+  padding-top: 0;
+}
